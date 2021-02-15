@@ -12,7 +12,7 @@ Brest State University, department of History, Master of History (2007 - 2014).
 
 ### Work experience
 * manager in different touristic companies in Brest (2012- 2019)
-   * I can learn, I want to develop, and I love to create
+   * I learned how create and sale touristic product
 * equipment adjuster in Gefest-Qarts (2019 - up to present)
    * I learned how to work with complex machines
 
