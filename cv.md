@@ -1,6 +1,6 @@
-#Siarhei Ihnatovich
+# Siarhei Ihnatovich
 =========
-##Personal information
+## Personal information
 --------------
 * telephone: +375298008987
 * e_mail: sierzhych@gmail.com
