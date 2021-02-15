@@ -26,7 +26,7 @@ Brest State University, department of History, Master of History (2007 - 2014).
 * Visual Studio Code
 * Chrome
 
-##Sample code
+## Sample code
 Task from MDN Web Docs
 ```
 <!DOCTYPE html>
