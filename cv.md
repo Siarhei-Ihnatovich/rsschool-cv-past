@@ -6,7 +6,7 @@
 * date of birth: 4th July 1989
 * Brest Belarus
 
-##About yourself
+## About yourself 
 ### Education
 Brest State University, department of History, Master of History (2007 - 2014).
 
