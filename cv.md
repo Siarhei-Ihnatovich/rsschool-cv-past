@@ -229,4 +229,5 @@ footer {
 * Basics HTML & CSS from Netology.ru (on-line course)
 * Basics HTML & CSS from MDN Web Docs (self-training)
 
-
+## English
+I think A2, but I need to work on it.
